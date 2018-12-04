@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="hint_message">Weight(kg)</string>
+    <string name="hint_message2">Height(m)</string>
+    <string name="send">Calculate</string>
+    <string name="message">Message</string>
+    <string name="close">Close</string>
+    <string name="error_message">Please enter a message</string>
+</resources>
